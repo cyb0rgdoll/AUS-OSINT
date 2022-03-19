@@ -1,5 +1,5 @@
             
-## DFW1N Open Source Intelligence List Australia 
+## Australia's OSINT Open Source Intelligence List  
 
 ## Description:
 Conduct background checks on employees or find a missing person that will assist the government finding people. My goal of this repository is to provide information or ideas to assist in your Open Source Intelligence Gathering or Investigation on your target. This repository will provide you with many ideas and information to conduct a thorough search.
