@@ -1,20 +1,18 @@
             
-## Australia's OSINT Open Source Intelligence List  
+## Australia's OSINT - Open Source Intelligence List  
 
 ## Description:
-Conduct background checks on employees or find a missing person that will assist the government finding people. My goal of this repository is to provide information or ideas to assist in your Open Source Intelligence Gathering or Investigation on your target. This repository will provide you with many ideas and information to conduct a thorough search.
-
-Reminder this list is still currently being developed and build on Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was designed to assist cyber professionals/Ethical hackers for the upcoming The AustCyber Canberra Innovation Node that partnered with the Australian Federal Police, the National Missing Persons Coordination Centre and Trace Labs to conduct a missing person event. The purpose of this the list is designed to ensure it is easier to find Open Source Intelligence on Australians that have gone missing the purpose is to reduce the scope this list can be used for many other purposes as well not only Open Source Intelligence. 
+This repository will assist with your Open Source Intelligence Gathering \ Investigation on your target. This repository will have Open Source Intelligence Gathering tools to scrape the Internet and Deep Web for information this list was designed to assist cybersecurity professionals, investigators, security officers, law enforcement, council workerz, rangers etc for any, many purposes from finding the missing Australians to verifying someones identity, not just used for only Open Source Intelligence. 
 
 ### Australias Largest Open Source Intelligence Repository
 
 ## [↑](#contents) Credits
 Contributor:                                                [<img src="https://github.com/DFW1N/DFW1N-OSINT/blob/master/DFW1N%20Logo.png" align="right" width="120">](https://github.com/DFW1N/DFW1N-OSINT)
 
-- [Sacha Roussakis-Notter](https://github.com/DFW1N)
+- [Sacha Roussakis-Notter](https://github.com/DFW1N
 - [Crimol](https://www.crimol.com)
 
-## Contributing
+##
 Please read the [Contributing](https://github.com/DFW1N/DFW1N-OSINT/blob/master/CONTRIBUTING.md) file for information if you wish to start contributing to this respository.
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
